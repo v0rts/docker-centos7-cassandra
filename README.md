@@ -10,7 +10,7 @@ This container is built with any commit to the `master` branch of this repo. If 
 
   1. [Install Docker](https://docs.docker.com/engine/installation/).
   2. `cd` into this directory.
-  3. Run `docker build -t untu1610-tmate-slave .`
+  3. Run `docker build -t centos7-cassandra .`
 
 ## How to Use
 
